@@ -1,0 +1,10 @@
+// let arr = [1,2,3,'sindi'];
+// console.log(arr);
+// console.log(arr.length);
+// console.log(arr.push('Zweni'));
+// console.log(arr);
+// console.log(arr.unshift('msiyana'));
+// console.log(arr);
+// console.log(arr.pop());
+// console.log(arr);
+// console.log(arr.shift());
